@@ -1,6 +1,6 @@
 # Waterbirds — Spurious Correlation 완화 실험
 
-홍익대학교 컴퓨터공학과 **기계학습심화** 기말 대체 프로젝트 · 전찬민
+홍익대학교 컴퓨터공학과 **기계학습심화** 기말 대체 프로젝트
 
 📓 **노트북: [waterbirds.ipynb](waterbirds.ipynb)**
 
